@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.log-img {
+    min-height: 20px;
+    max-height: 40px;
+
+}
+
+.bg-home {
+    background-image: url('https://static.wixstatic.com/media/2d34e5_f31b7f79c757410d8aab04ca606bcbe4~mv2.png/v1/fill/w_1826,h_843,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/2d34e5_f31b7f79c757410d8aab04ca606bcbe4~mv2.png');
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+
+
+}
+
+.home-heading {
+    margin: 20px;
+    font-size: 50px;
+    color: #DAF7A6;
+    font-family: "cursive";
+    font-weight: bold;
+}
+
+.home-para {
+    text-align: center;
+    font-size: 20px;
+    margin: 30px;
+    padding: 20px;
+    color: #ffffff;
+    font-family: "cursive";
+    font-weight: bold;
+}
+
+.img1 {
+    background-image: url('https://im.whatshot.in/img/2020/Jan/shutterstock-1321441472-cropped-1580207153-1580300957.jpg');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+p {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.img2 {
+    background-image: url('https://amazingadventures.in/wp-content/uploads/2016/11/Kashmir.jpg');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.img3 {
+    background-image: url('https://www.pintailworldwide.com/wp-content/uploads/2021/03/Featured-Image-1.jpg');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+
+
+}
+
+.img4 {
+    background-image: url('https://1.bp.blogspot.com/-DlzxXCWeIwg/X8yFL1nlHCI/AAAAAAAAAkg/QSWjqch8t8cjXdxJ5J34ytL5RLm-VPzxACLcBGAsYHQ/w1200-h630-p-k-no-nu/ANDAMAN-NICOBAR-ISLANDS.jpg');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+
+}
+
+.p {
+    color: black;
+    font-size: 20px;
+}
+
+.img2-1 {
+    background-image: url('https://www.tripsavvy.com/thmb/ZtwK0eWCSDo4DQjEGi-IupGJ2I0=/5472x3648/filters:no_upscale():max_bytes(150000):strip_icc()/wat-arun-temple-bangkok-5c461eee46e0fb00016fe445.jpg');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.img2-2 {
+    background-image: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/4d/a7/97/photo2jpg.jpg?w=1200&h=1200&s=1');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.img2-3 {
+    background-image: url('https://th.bing.com/th/id/OIP.nRjosVecocFpmSOVQuw6ngHaE8?rs=1&pid=ImgDetMain');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+
+
+}
+
+.img2-4 {
+    background-image: url('https://th.bing.com/th/id/OIP.4-D33elQ86RX4mYF1OYr0wHaE_?rs=1&pid=ImgDetMain');
+    height: 50vh;
+    width: 100%;
+    background-size: cover;
+    color: #ffffff;
+    padding: 10px;
+
+}
+
+.h1 {
+    color: black;
+    font-size: 40px;
+}
+
+.bg {
+    background-image: url('https://www.digient.in/images/2020/07/07/banners-sub/flightbook.jpg');
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+img {
+    height: 40vh;
+
+}
